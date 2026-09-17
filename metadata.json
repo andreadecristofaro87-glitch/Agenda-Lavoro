@@ -1,0 +1,6 @@
+{
+  "name": "Gestione Straordinari e Presenze",
+  "description": "App mobile per la gestione annuale di straordinari, ferie, permessi, malattia e festività lavorate per i dipendenti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
